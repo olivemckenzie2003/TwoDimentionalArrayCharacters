@@ -73,7 +73,7 @@ for (const auto& member : members1) {
 string predictions[] {
     "a lot of kinds running in the backyard!",
     
-    "a lot of empty beer bottles on your work table.",
+    "a lot of bottles on your work table.",
     
     "wearing Stush clothes.",
     
