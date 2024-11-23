@@ -75,7 +75,7 @@ string predictions[] {
     
     "a lot of empty beer bottles on your work table.",
     
-    "you Partying too much with kids wearing weird clothes.",
+    "wearing Stush clothes.",
     
     "you running away from something really scary",
     
@@ -85,9 +85,9 @@ string predictions[] {
     
     "a lot of cars stuck in a terrible traffic jam",
     
-    "you sitting in the dark typing lots of lines of code on your dirty computer",
+    "you typing lots of lines of code on your computer",
     
-    "you yelling at your boss. And oh no! You get fired!",
+    "You get fired!",
     
     "you laughing your lungs out. I've never seen this before.",
     
